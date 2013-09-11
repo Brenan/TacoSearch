@@ -16,9 +16,11 @@ a {
 input {
 	width: 300px;
 	margin: auto;
+	background-color: gray;
 }
 
 .top {
-	width: 500px;
+	width: 1260px;
 	margin: auto;
+	background-color: yellow;
 }
